@@ -1,0 +1,273 @@
+{
+  "game_directory": "materials/drake_dragon/skies_v145",
+  "face_size": 4096,
+  "sources": [
+    {
+      "name": "black-stars",
+      "original_size": [
+        8192,
+        4096
+      ],
+      "prepared_size": [
+        16384,
+        8192
+      ],
+      "resampled": true,
+      "enhanced_artwork": true,
+      "native_artwork": false,
+      "original_sha256": "e619e00cbe28dfa423e3173f9da02737c4dd5104cfea355b0db52c3e37eab9ff",
+      "enhancement": {
+        "name": "black-stars",
+        "method": "Real-ESRGAN x4plus with wrapped longitude context",
+        "native_artwork": false,
+        "detail_generated": true,
+        "original_size": [
+          1774,
+          887
+        ],
+        "output_size": [
+          8192,
+          4096
+        ],
+        "learned_passes": 1,
+        "original_sha256": "b450bec7572155408b42f44c958f8491b3d50d573bdeef15694d4791b5ca519c",
+        "downsampled_mae_255": 3.281040906906128,
+        "downsampled_rgb_correlation": 0.986761786896487,
+        "output_sha256": "e619e00cbe28dfa423e3173f9da02737c4dd5104cfea355b0db52c3e37eab9ff"
+      }
+    },
+    {
+      "name": "aurora",
+      "original_size": [
+        8192,
+        4096
+      ],
+      "prepared_size": [
+        16384,
+        8192
+      ],
+      "resampled": true,
+      "enhanced_artwork": true,
+      "native_artwork": false,
+      "original_sha256": "19f3f8813503161ee0b61bc3ed4f12db89b55e23bcba8b1fa2e186da27f6dd5b",
+      "enhancement": {
+        "name": "aurora",
+        "method": "Real-ESRGAN x4plus with wrapped longitude context",
+        "native_artwork": false,
+        "detail_generated": true,
+        "original_size": [
+          1774,
+          887
+        ],
+        "output_size": [
+          8192,
+          4096
+        ],
+        "learned_passes": 1,
+        "original_sha256": "0f102634544d68c791187a6cdd563fa106d93428db5ac32289417af0da44e84d",
+        "downsampled_mae_255": 3.4581940174102783,
+        "downsampled_rgb_correlation": 0.99575770833271,
+        "output_sha256": "19f3f8813503161ee0b61bc3ed4f12db89b55e23bcba8b1fa2e186da27f6dd5b"
+      }
+    },
+    {
+      "name": "dragon",
+      "original_size": [
+        16384,
+        8192
+      ],
+      "prepared_size": [
+        16384,
+        8192
+      ],
+      "resampled": false,
+      "enhanced_artwork": true,
+      "native_artwork": false,
+      "original_sha256": "c92cdc1fbc06967336713f936058195d036517ef4b4983d93de580c36432019c",
+      "enhancement": {
+        "name": "dragon",
+        "method": "Real-ESRGAN x4plus with wrapped longitude context",
+        "native_artwork": false,
+        "detail_generated": true,
+        "original_size": [
+          1774,
+          887
+        ],
+        "output_size": [
+          16384,
+          8192
+        ],
+        "learned_passes": 2,
+        "original_sha256": "657326dac5dc28fcec9efed9411e6be95c34afb3ea084d48604ff5c469db482a",
+        "downsampled_mae_255": 4.763504981994629,
+        "downsampled_rgb_correlation": 0.9887445784321097,
+        "output_sha256": "c92cdc1fbc06967336713f936058195d036517ef4b4983d93de580c36432019c"
+      }
+    },
+    {
+      "name": "moon-night",
+      "original_size": [
+        8192,
+        4096
+      ],
+      "prepared_size": [
+        16384,
+        8192
+      ],
+      "resampled": true,
+      "enhanced_artwork": true,
+      "native_artwork": false,
+      "original_sha256": "e6896b8703998e58926cdec90d9d6d3797fc253e4838cdc5662a35fe683af1f7",
+      "enhancement": {
+        "name": "moon-night",
+        "method": "Real-ESRGAN x4plus with wrapped longitude context",
+        "native_artwork": false,
+        "detail_generated": true,
+        "original_size": [
+          1774,
+          887
+        ],
+        "output_size": [
+          8192,
+          4096
+        ],
+        "learned_passes": 1,
+        "original_sha256": "6e39185a60f0b63f310e1a551a99c1be755cbacb4d26cb6e2258311d3bb3ffd1",
+        "downsampled_mae_255": 2.898054599761963,
+        "downsampled_rgb_correlation": 0.991477241890615,
+        "output_sha256": "e6896b8703998e58926cdec90d9d6d3797fc253e4838cdc5662a35fe683af1f7"
+      }
+    },
+    {
+      "name": "violet-nebula",
+      "original_size": [
+        8192,
+        4096
+      ],
+      "prepared_size": [
+        16384,
+        8192
+      ],
+      "resampled": true,
+      "enhanced_artwork": true,
+      "native_artwork": false,
+      "original_sha256": "92a0c478c4e6cd42f70c5cbf0a4656819b09a5247910b7b2fb3f5fce3f54033b",
+      "enhancement": {
+        "name": "violet-nebula",
+        "method": "Real-ESRGAN x4plus with wrapped longitude context",
+        "native_artwork": false,
+        "detail_generated": true,
+        "original_size": [
+          1774,
+          887
+        ],
+        "output_size": [
+          8192,
+          4096
+        ],
+        "learned_passes": 1,
+        "original_sha256": "f6049eefba73c9381e3008cc68d969bf4bfdaee35e7ada55db7833814e3d0882",
+        "downsampled_mae_255": 3.5007009506225586,
+        "downsampled_rgb_correlation": 0.9953373685819409,
+        "output_sha256": "92a0c478c4e6cd42f70c5cbf0a4656819b09a5247910b7b2fb3f5fce3f54033b"
+      }
+    },
+    {
+      "name": "black-dragon",
+      "original_size": [
+        16384,
+        8192
+      ],
+      "prepared_size": [
+        16384,
+        8192
+      ],
+      "resampled": false,
+      "enhanced_artwork": true,
+      "native_artwork": false,
+      "original_sha256": "72bcf4fc98e2bc5d64fc448f32f3f05aa80bd159f209e3e3fdf86cb45a363153",
+      "enhancement": {
+        "name": "black-dragon",
+        "method": "Real-ESRGAN x4plus with wrapped longitude context",
+        "native_artwork": false,
+        "detail_generated": true,
+        "original_size": [
+          1774,
+          887
+        ],
+        "output_size": [
+          16384,
+          8192
+        ],
+        "learned_passes": 2,
+        "original_sha256": "652cc01cb68181911cb48ddf5bd500b452a34658e68bccb7fc55b0f104cb7c98",
+        "downsampled_mae_255": 6.615314960479736,
+        "downsampled_rgb_correlation": 0.989543443903492,
+        "output_sha256": "72bcf4fc98e2bc5d64fc448f32f3f05aa80bd159f209e3e3fdf86cb45a363153"
+      }
+    }
+  ],
+  "files": [
+    {
+      "file": "black-stars.vmat_c",
+      "bytes": 2284,
+      "sha256": "34af86c7bf5cafe85ed5109a2a8630cb87a255eb047cc36879de6107d90c6072"
+    },
+    {
+      "file": "black-stars_tga_8e5c7ff.vtex_c",
+      "bytes": 134218924,
+      "sha256": "b65d422ffd1e2e96d48fb3dc843d122dd0eb670690111461171ffe56d125c3ba"
+    },
+    {
+      "file": "aurora.vmat_c",
+      "bytes": 2252,
+      "sha256": "22b5cbd7340f0b7808b804397a84908d2a6c27037c4c8c3d9729f32acb33fa5c"
+    },
+    {
+      "file": "aurora_tga_d5ba0bcc.vtex_c",
+      "bytes": 134218924,
+      "sha256": "898f9a84264b5a4893be60ed10a08b422c005024798816a1ced57f653982fd92"
+    },
+    {
+      "file": "dragon.vmat_c",
+      "bytes": 2252,
+      "sha256": "7654c5766f679366c9bb6aab42cfdd0e68d47ed33b0a8b241883e12e76315e90"
+    },
+    {
+      "file": "dragon_tga_8f9269bf.vtex_c",
+      "bytes": 134218924,
+      "sha256": "7a8e41d758d8de5ec6dd3f85e78ebe6cd1d9ad9d2605d1d877be963b2d91306d"
+    },
+    {
+      "file": "moon-night.vmat_c",
+      "bytes": 2284,
+      "sha256": "5132af31e63025fd777582ce88b3bcccf2218b1d9c27be131e82e72f1ae68335"
+    },
+    {
+      "file": "moon-night_tga_29077855.vtex_c",
+      "bytes": 134218924,
+      "sha256": "6a3efafb9305637691be3df7d29b293232ab68dc871fb2ef70e76cae86afada6"
+    },
+    {
+      "file": "violet-nebula.vmat_c",
+      "bytes": 2284,
+      "sha256": "95196996e394532c3e6a0d787a27a2b2815dfb3baa0bb261d48bee8d094f9abb"
+    },
+    {
+      "file": "violet-nebula_tga_88c01df5.vtex_c",
+      "bytes": 134218924,
+      "sha256": "eb88ae11c15821853c772dc3672c0683bfb7477870f7c2cf4e0a0e13dc433862"
+    },
+    {
+      "file": "black-dragon.vmat_c",
+      "bytes": 2284,
+      "sha256": "0bd1702c5085db71bf0c1fce29af1649ceb8671be1ee9f1d9e8f120e5f39a5c8"
+    },
+    {
+      "file": "black-dragon_tga_3abedafe.vtex_c",
+      "bytes": 134218924,
+      "sha256": "37fdcd9f0ef1cb79e11b5d6be60d6a5043e1d53139739ad9c9b675e0ce8508cf"
+    }
+  ],
+  "description": "Six composition-preserving enhanced production themes; no diagnostic controls. Enhanced outputs are not native 8K/16K artwork."
+}

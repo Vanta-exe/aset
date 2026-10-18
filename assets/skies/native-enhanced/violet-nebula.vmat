@@ -1,0 +1,9 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+ shader = "sky.vfx"
+ SkyTexture = "materials/drake_dragon/skies_v145/violet-nebula.tga"
+ g_flBrightnessExposureBias = 0.0
+ g_flRenderOnlyExposureBias = 0.0
+ g_flHorizonOffset = 0.0
+ g_flRotation = 0.0
+}
